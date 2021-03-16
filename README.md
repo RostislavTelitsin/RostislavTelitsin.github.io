@@ -9,6 +9,5 @@ dfgg
 ~~~
 
 
-<p align="center">
-[ссылко](https://www.youtube.com)
-</p>
+
+- [ссылко](https://www.youtube.com)
