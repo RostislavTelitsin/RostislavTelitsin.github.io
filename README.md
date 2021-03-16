@@ -7,4 +7,4 @@ dfgh
 dfgh
 dfgg
 ~~~
-<center>[ссылко](https://www.youtube.com)</center>
+<center> [ссылко](https://www.youtube.com) </center>
