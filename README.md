@@ -7,4 +7,8 @@ dfgh
 dfgh
 dfgg
 ~~~
--> [ссылко](https://www.youtube.com) <-
+
+
+<p align="center">
+[ссылко](https://www.youtube.com)
+</p>
