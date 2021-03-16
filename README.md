@@ -10,4 +10,4 @@ dfgg
 
 
 
-- [ссылко](https://www.youtube.com)
+- [ссылко](https://www.youtube.com) | [ссылко2](https://youtu.be/d8fuCQ4IYC8)
