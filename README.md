@@ -1,4 +1,7 @@
 # Rostislav Telitsin
+Hi,
+I'm 42. I like coding. I'm workin in telecomunication industry and want to change occupation
+
 ## My portfolio
 
 
