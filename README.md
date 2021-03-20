@@ -10,20 +10,20 @@ my email - *rostislav.telitsin@gmail.com*
 
 ___
 
-## My portfolio 
+# My portfolio 
 The main aim of this portfolio is just to demonstrate my coding skills  
 I hope it can help me to get a job of the software developer  
 
 ___
 
-### ![alt-Python](python-logo-glassy3.png "Python") [Python portfolio](Python_Poftfolio.github.io) 
+## ![alt-Python](python-logo-glassy3.png "Python") [Python portfolio](Python_Poftfolio.github.io) 
 
 I have some python experience. You can see it [here](Python_Poftfolio.github.io)  
 Python is used to make a more simple routing work of my current job as far as in possible  
 
 ___  
 
-### ![alt-Java](Java_logo2.png "Java") Java portfolio
+## ![alt-Java](Java_logo2.png "Java") Java portfolio
 
 ___  
 
