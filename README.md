@@ -33,7 +33,7 @@ This is android/java tool to implement CheckIn and CheckOut on site of my employ
 
 - #### [Running tracker](https://github.com/RostislavTelitsin/runner.git)
 
-Tracker for running shows distance, time and heartbeat rate
+Tracker for running shows distance, time and heartbeat rate  
 [![https://github.com/RostislavTelitsin/runner.git](GPS.jpg)](https://github.com/RostislavTelitsin/runner.git)
 
 
