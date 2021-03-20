@@ -23,7 +23,7 @@ Python is used to make a more simple routing work of my current job as far as in
 Simple calculator  
 it implements the procedures of addition, subtraction, multiplication and division
 
-![https://github.com/RostislavTelitsin/babyCalc](calc.jpg "BabyCalc")
+![src=<calc.jpg>](https://github.com/RostislavTelitsin/babyCalc)
 
 #### [CheckIn/CheckOut Tool](https://github.com/RostislavTelitsin/CheckInOut.git)
 
