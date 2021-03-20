@@ -18,20 +18,20 @@ Python is used to make a more simple routing work of my current job as far as in
 
 ### ![alt-Java](Java_logo2.png "Java") Java portfolio
 
-#### [BabyCalc](https://github.com/RostislavTelitsin/babyCalc)
+- #### [BabyCalc](https://github.com/RostislavTelitsin/babyCalc)
 
 Simple calculator  
 it implements the procedures of addition, subtraction, multiplication and division
 
 [![https://github.com/RostislavTelitsin/babyCalc](calc.jpg)](https://github.com/RostislavTelitsin/babyCalc)
 
-#### [CheckIn/CheckOut Tool](https://github.com/RostislavTelitsin/CheckInOut.git)
+- #### [CheckIn/CheckOut Tool](https://github.com/RostislavTelitsin/CheckInOut.git)
 
 This is android/java tool to implement CheckIn and CheckOut on site of my employer (when you start and finish your working day)
 
 [![https://github.com/RostislavTelitsin/CheckInOut.git](ChIn.jpg)](https://github.com/RostislavTelitsin/CheckInOut.git)
 
-#### [Running tracker](https://github.com/RostislavTelitsin/runner.git)
+- #### [Running tracker](https://github.com/RostislavTelitsin/runner.git)
 
 simple calculator
 
