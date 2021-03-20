@@ -5,6 +5,9 @@ I'm 42. I like coding. I'm workin in telecomunication industry and want to chang
 
 ## My portfolio
 
+[Python portfolio](RostislavTelitsinPython.github.io)
+I have some python expetience. You can see it [here](RostislavTelitsinPython.github.io)
+
 [BabyCalc](https://github.com/RostislavTelitsin/babyCalc)
 
 simple calculator
