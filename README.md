@@ -9,7 +9,7 @@ The main aim of this portfolio is just demonstrate my coding skill
 I hope it can help me to get a job of software developer
 ### ![alt-Python](python-logo-glassy3.png "Python") [Python portfolio](RostislavTelitsinPython.github.io) 
 
-I have some python expetience. You can see it [here](RostislavTelitsinPython.github.io)
+I have some python expetience. You can see it [here](RostislavTelitsinPython.github.io)  
 Python is used to make more simle routing work of my current job as far as in possible
 
 ### ![alt-Java](Java_logo.png "Java") Java portfolio
