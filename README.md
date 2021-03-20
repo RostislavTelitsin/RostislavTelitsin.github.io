@@ -12,7 +12,7 @@ I hope it can help me to get a job of software developer
 I have some python expetience. You can see it [here](RostislavTelitsinPython.github.io)
 Python is used to make more simle routing work of my current job as far as in possible
 
-### ![alt-Java](python-logo-glassy3.png "Java") Java portfolio
+### ![alt-Java](Java_logo.png "Java") Java portfolio
 
 [BabyCalc](https://github.com/RostislavTelitsin/babyCalc)
 
