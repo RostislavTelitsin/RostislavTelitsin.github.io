@@ -1,7 +1,11 @@
 # Rostislav Telitsin
-Hi,
-My name is **Rostislav Telitsin**. I'm from Russia
-I'm 42. I like coding. I'm workin in telecomunication industry and want to change occupation
+Hi,  
+
+My name is **Rostislav Telitsin**  
+I'm from Russia
+I'm 42  
+I like coding. I'm workin in telecomunication industry and want to change occupation  
+
 my email - *rostislav.telitsin@gmail.com*
 
 ## My portfolio 
