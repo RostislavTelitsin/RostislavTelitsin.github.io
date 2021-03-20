@@ -23,7 +23,7 @@ Python is used to make a more simple routing work of my current job as far as in
 
 ___  
 
-## ![alt-Java](Java_logo.png "JAVA") Java portfolio
+## ![alt-JAVA](Java_logo.png "JAVA") Java portfolio
 
 ___  
 
