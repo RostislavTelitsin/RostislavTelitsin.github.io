@@ -7,6 +7,9 @@ I'm 42. I like coding. I'm workin in telecomunication industry and want to chang
 
 ### [Python portfolio](RostislavTelitsinPython.github.io)
 
+![alt-текст](python-logo-glassy2.png "Текст заголовка логотипа 1")
+
+
 I have some python expetience. You can see it [here](RostislavTelitsinPython.github.io)
 
 [BabyCalc](https://github.com/RostislavTelitsin/babyCalc)
