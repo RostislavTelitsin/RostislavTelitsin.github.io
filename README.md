@@ -14,7 +14,7 @@ Python is used to make more simle routing work of my current job as far as in po
 
 ### ![alt-Java](Java_logo2.png "Java") Java portfolio
 
--[####BabyCalc](https://github.com/RostislavTelitsin/babyCalc)
+[####BabyCalc](https://github.com/RostislavTelitsin/babyCalc)
 
 simple calculator
 
@@ -23,7 +23,7 @@ simple calculator
 some code
 ~~~
 
--[####CheckIn/CheckOut Tool](https://github.com/RostislavTelitsin/CheckInOut.git)
+[####CheckIn/CheckOut Tool](https://github.com/RostislavTelitsin/CheckInOut.git)
 
 simple calculator
 
@@ -32,7 +32,7 @@ simple calculator
 some code
 ~~~
 
--[####Running tracker](https://github.com/RostislavTelitsin/runner.git)
+[####Running tracker](https://github.com/RostislavTelitsin/runner.git)
 
 simple calculator
 
