@@ -29,10 +29,7 @@ it implements the procedures of addition, subtraction, multiplication and divisi
 
 This is android/java tool to implement CheckIn and CheckOut on site of my employer (when you start and finish your working day)
 
-- the example of method to get data wich used input
-~~~
-some code
-~~~
+[![https://github.com/RostislavTelitsin/CheckInOut.git](ChIn.jpg)](https://github.com/RostislavTelitsin/CheckInOut.git)
 
 #### [Running tracker](https://github.com/RostislavTelitsin/runner.git)
 
