@@ -5,7 +5,7 @@ I'm 42. I like coding. I'm workin in telecomunication industry and want to chang
 my email - *rostislav.telitsin@gmail.com*
 
 ## My portfolio 
-The main aim of this portfolio is just demonstrate my coding skill
+The main aim of this portfolio is just demonstrate my coding skills  
 I hope it can help me to get a job of software developer
 ### ![alt-Python](python-logo-glassy3.png "Python") [Python portfolio](Python_Poftfolio.github.io) 
 
