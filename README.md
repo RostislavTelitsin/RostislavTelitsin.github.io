@@ -20,11 +20,12 @@ ___
 
 I have some python experience. You can see it [here](Python_Poftfolio.github.io)  
 Python is used to make a more simple routing work of my current job as far as in possible  
-___
+
+___  
 
 ### ![alt-Java](Java_logo2.png "Java") Java portfolio
 
-___
+___  
 
 - #### [BabyCalc](https://github.com/RostislavTelitsin/babyCalc)
 
