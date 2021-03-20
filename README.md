@@ -5,7 +5,7 @@ I'm 42. I like coding. I'm workin in telecomunication industry and want to chang
 
 ## My portfolio 1
 
-### [Python portfolio](RostislavTelitsinPython.github.io) ![alt-где мой текст](python-logo-glassy3.png "Python")
+### ![alt-где мой текст](python-logo-glassy3.png "Python") [Python portfolio](RostislavTelitsinPython.github.io) 
 
 
 I have some python expetience. You can see it [here](RostislavTelitsinPython.github.io)
