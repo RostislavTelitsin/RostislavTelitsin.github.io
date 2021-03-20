@@ -43,10 +43,19 @@ it implements the procedures of addition, subtraction, multiplication and divisi
     }
 ~~~
 
+- The other example is a method to calculate sum of two numbers:  
+~~~
+// if "+" pressed
+    public void plusButtonClik (View v) {
+        getData();
+        result_meaning =nnum1_meaning + nnum2_meaning;
+        result_frame.setText(Double.toString(result_meaning));
+    }
+~~~
+
 #### [CheckIn/CheckOut Tool](https://github.com/RostislavTelitsin/CheckInOut.git)
 
-simple calculator  
-it implements the procedures of addition, subtraction, multiplication and division
+This is android/java tool to implement CheckIn and CheckOut on site of my employer (when you start and finish your working day)
 
 - the example of method to get data wich used input
 ~~~
