@@ -25,8 +25,8 @@ ___
 
 ## ![alt-JAVA](Java_logo.png "JAVA") JAVA portfolio
 > - IDE: 
->  - Intelij IDEA
->  - Android Studio
+>   - Intelij IDEA
+>   - Android Studio
 
 ___  
 
