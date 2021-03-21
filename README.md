@@ -24,6 +24,9 @@ Python is used to make a more simple routing work of my current job as far as in
 ___  
 
 ## ![alt-JAVA](Java_logo.png "JAVA") JAVA portfolio
+- IDE: 
+> Intelij IDEA
+> Android Studio
 
 ___  
 
