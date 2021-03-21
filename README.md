@@ -28,11 +28,13 @@ ___
 >   - Intelij IDEA
 >   - Android Studio
 
+I have developed 3 small project:
+
 ___  
 
 - #### [BabyCalc](https://github.com/RostislavTelitsin/babyCalc)
 
-Simple calculator  
+Simple calculator is my first project in java/android 
 it implements the procedures of addition, subtraction, multiplication and division
 
 [![https://github.com/RostislavTelitsin/babyCalc](calc.jpg)](https://github.com/RostislavTelitsin/babyCalc)
