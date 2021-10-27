@@ -3,7 +3,7 @@ Hi,
 
 My name is **Rostislav Telitsin**  
 I'm from Russia  
-I'm 42  
+I'm 43  
 I like coding. I'm working in the telecommunication industry and want to change occupation  
 
 my email - *rostislav.telitsin@gmail.com*  
