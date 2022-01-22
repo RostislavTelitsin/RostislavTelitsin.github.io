@@ -32,7 +32,7 @@ I have developed 3 small project:
 
 ___  
 
-- #### [Agromashiny - web site](https://github.com/RostislavTelitsin/agromashiny.git)
+- #### [Agromashiny - spring boot web site](https://github.com/RostislavTelitsin/agromashiny.git)
 
 Site still in progress but current code is [here](https://github.com/RostislavTelitsin/agromashiny.git) <br/>
 Currently this app hosted at heroku https://agromashiny.herokuapp.com/ <br/>
@@ -40,6 +40,7 @@ App uses following features:
 > - **Spring boot**
 > - project built by **Maven**
 > - This web-site uses **PostgreSQL** to store news and pictures for them
+> - **Spring secutity** allows to create news by admin acoount only
 
 
 ___  
