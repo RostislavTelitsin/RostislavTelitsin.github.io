@@ -34,8 +34,9 @@ ___
 
 - #### [Agromashiny - web site](https://github.com/RostislavTelitsin/agromashiny.git)
 
-Tracker for running shows distance, time and heartbeat rate  
-[![https://github.com/RostislavTelitsin/runner.git](GPS.jpg)](https://github.com/RostislavTelitsin/runner.git)
+This web-site uses PostgreSQL to store news and pictures for them
+Currently this app hosted at heroku https://agromashiny.herokuapp.com/
+Site still in progress 
 
 
 ___  
