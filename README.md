@@ -32,6 +32,14 @@ I have developed 3 small project:
 
 ___  
 
+- #### [Agromashiny - web site](https://github.com/RostislavTelitsin/agromashiny.git)
+
+Tracker for running shows distance, time and heartbeat rate  
+[![https://github.com/RostislavTelitsin/runner.git](GPS.jpg)](https://github.com/RostislavTelitsin/runner.git)
+
+
+___  
+
 - #### [Running tracker](https://github.com/RostislavTelitsin/runner.git)
 
 Tracker for running shows distance, time and heartbeat rate  
