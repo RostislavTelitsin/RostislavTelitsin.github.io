@@ -32,12 +32,10 @@ I have developed 3 small project:
 
 ___  
 
-- #### [BabyCalc](https://github.com/RostislavTelitsin/babyCalc)
+- #### [Running tracker](https://github.com/RostislavTelitsin/runner.git)
 
-Simple calculator is my first project in java/android 
-it implements the procedures of addition, subtraction, multiplication and division
-
-[![https://github.com/RostislavTelitsin/babyCalc](calc.jpg)](https://github.com/RostislavTelitsin/babyCalc)
+Tracker for running shows distance, time and heartbeat rate  
+[![https://github.com/RostislavTelitsin/runner.git](GPS.jpg)](https://github.com/RostislavTelitsin/runner.git)
 
 
 ___
@@ -49,10 +47,7 @@ This is android/java tool to implement CheckIn and CheckOut on site of my employ
 
 ___
 
-- #### [Running tracker](https://github.com/RostislavTelitsin/runner.git)
 
-Tracker for running shows distance, time and heartbeat rate  
-[![https://github.com/RostislavTelitsin/runner.git](GPS.jpg)](https://github.com/RostislavTelitsin/runner.git)
 
 
 
