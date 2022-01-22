@@ -34,9 +34,13 @@ ___
 
 - #### [Agromashiny - web site](https://github.com/RostislavTelitsin/agromashiny.git)
 
+Site still in progress
 This web-site uses PostgreSQL to store news and pictures for them
 Currently this app hosted at heroku https://agromashiny.herokuapp.com/
-Site still in progress 
+App uses following features:
+> - **Spring boot**
+> - project built by **Maven**
+> - This web-site uses **PostgreSQL** to store news and pictures for them
 
 
 ___  
