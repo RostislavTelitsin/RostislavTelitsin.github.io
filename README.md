@@ -42,6 +42,12 @@ App uses following features:
 > - This web-site uses **PostgreSQL** to store news and pictures for them
 > - **Spring secutity** allows to create news by admin acoount only
 
+___  
+
+- #### [VeonTool - JavaFX tool for excel files processing](https://github.com/RostislavTelitsin/VeonTool)
+
+This tool uses JavaFX for GUI and org.apache.poi for excel processing
+
 
 ___  
 
